@@ -1,21 +1,25 @@
-# bun-react-tailwind-shadcn-template
+# Agoda
 
-To install dependencies:
+## Prerequisites
+
+Install [Bun](https://bun.sh) before proceeding.
+
+## Installation
 
 ```bash
 bun install
 ```
 
-To start a development server:
+## Running
+
+### Run dataTransform.ts tests
+
+```bash
+bun test
+```
+
+### Run React project
 
 ```bash
 bun dev
 ```
-
-To run for production:
-
-```bash
-bun start
-```
-
-This project was created using `bun init` in bun v1.3.5. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
